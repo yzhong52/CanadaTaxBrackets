@@ -1,0 +1,9 @@
+name: CanadaTaxBrackets
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - plotly
+  - python-kaleido # for exporting images
+  - black # for code formatting
